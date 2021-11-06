@@ -1,1 +1,1 @@
-inside master/root
+inside page/root
